@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\bin\Debug\Arithmetic_mean_of_two_numbers.exe.config
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\bin\Debug\Arithmetic_mean_of_two_numbers.exe
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\bin\Debug\Arithmetic_mean_of_two_numbers.pdb
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\obj\Debug\Arithmetic_mean_of_two_numbers.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\obj\Debug\Arithmetic_mean_of_two_numbers.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\obj\Debug\Arithmetic_mean_of_two_numbers.exe
-C:\Users\Admin\Desktop\Projects\Arithmetic_mean_of_two_numbers\Arithmetic_mean_of_two_numbers\obj\Debug\Arithmetic_mean_of_two_numbers.pdb
