@@ -21,6 +21,7 @@ namespace Arithmetic_mean_of_two_numbers
 
             double result = (number1 + number2) / 2;
             Console.WriteLine("Arithmetic mean: " + result);
+            Console.ReadLine();
         }
     }
 }
